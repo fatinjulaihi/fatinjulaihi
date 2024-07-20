@@ -7,7 +7,7 @@
 
 <div align=center>
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=fatinjulaihi)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=fatinjulaihi&theme=tokyonight)](https://git.io/streak-stats)
 </div>
 
 
