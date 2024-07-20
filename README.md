@@ -1,16 +1,14 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&duration=2000&pause=500&color=F7F7F7&width=435&lines=Hello<𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!;Welcome+to+;fatin's+playground;)](https://git.io/typing-svg)
+![](https://user-images.githubusercontent.com/67194519/173735367-b75edb3b-61ec-4323-a10f-5d98e1d7b97a.gif)
 
-<!--
-**fatinjulaihi/fatinjulaihi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">  </h2>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center"> ༼ つ ◕_◕ ༽つ </h2>
+
+<div align=center>
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=fatinjulaihi)  
+</div>
+
+
